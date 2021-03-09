@@ -14,9 +14,8 @@
 
 ## Fase II
 
-* Técnica: K-Medias
-  
-  * [Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentacion_K-Medias_Equipo6.pdf)
-  
-  * [Mini examen]()
+* [Presentación K-Medias](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
 
+* [Ejemplo](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb)
+  
+* [Mini examen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf)
