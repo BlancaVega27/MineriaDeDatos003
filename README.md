@@ -19,3 +19,5 @@
 * [Ejemplo](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb)
   
 * [Mini examen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf)
+
+* [Mapa Mental II](https://github.com/BlancaVega27/MineriaDeDatos003/blob/main/MapaMental_2_1795359.pdf)
