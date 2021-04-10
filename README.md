@@ -22,6 +22,6 @@
 
 * [Mapa Mental II](https://github.com/BlancaVega27/MineriaDeDatos003/blob/main/MapaMental_2_1795359.pdf)
 
-* [Practica de Visualización]()
+* [Practica de Visualización](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
 
 * [Segunda entrega del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
