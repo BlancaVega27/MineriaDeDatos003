@@ -24,7 +24,7 @@
 
 * [Práctica de Visualización](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
 
-# Segunda entrega del PIA
+#### Segunda entrega del PIA
 
 * [Versión 1](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
 
